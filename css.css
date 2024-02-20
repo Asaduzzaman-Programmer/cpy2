@@ -231,7 +231,7 @@ line-height: 35px;
 }
 .form input{
     background: transparent;
-    border: 2px solid rgb(0, 21, 255);
+    border: 2px solid rgb(4, 23, 233);
     border-radius: 3px;
     border-right: none;
     border-left: none;
@@ -276,11 +276,3 @@ line-height: 35px;
     color: rgb(255, 0, 0);
     
 }
-
-
-
-
-
-
-
-
